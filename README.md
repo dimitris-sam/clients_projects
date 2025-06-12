@@ -1,2 +1,9 @@
-# these are some projects i was asked to do for my current boss (11/6/2025) during the time i work in his company, a tool selling and repairing business.
-makita and bosch files are webscraping code to collect tools specs. 
+Project Summary (as of 11/06/2025):
+
+These are projects assigned to me by my current employer, a company specializing in tool sales and repairs:
+
+Makita and Bosch Scripts: Web scraping tools developed to extract product specifications from the official websites of Makita and Bosch.
+
+Facom Script: A PDF annotation tool designed to highlight content and insert clickable web links into technical documents.
+
+Final Attempt Script: An OCR-based solution used to detect part numbers on spare parts diagrams, highlight them, and annotate the PDF with relevant web links.
